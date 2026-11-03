@@ -1,0 +1,272 @@
+Askema - License
+==========================
+Version 1.0, October 2026
+
+Copyright (c) 2026 Loick Marion. All rights reserved.
+
+SUMMARY (for convenience only, not legally binding; the numbered terms below control)
+- Askema is free for individuals, including self-employed tutors and people who sell the
+  worksheets they make.
+- Individuals may modify the Software for their own use, but may not share modified copies.
+- If you make worksheets at the request of a company or other organization, that organization needs a license. Tutors who work for a company or tutoring agency are covered by that company's license, so the company needs one.
+- Free for public schools and for non-profit schools, universities and educational groups that do
+  not sell the worksheets, with unlimited copies.
+- Companies, for-profit education providers, publishers and other organizations need a license;
+  there is a free 30-day trial to try it first.
+- You own the worksheets, diagrams and project files you create with Askema.
+- You may share the unmodified installer free of charge, as long as you give credit. Everyone who receives it gets their own license from the Licensor.
+- Otherwise credit is appreciated but not required.
+- No warranty.
+
+By installing or using the Software, You accept this license. If You do not accept it, do not
+install or use the Software.
+
+1. Definitions
+
+"Software": Askema, in source or binary form, including its installers, documentation and bundled
+data, but excluding Third-Party Components.
+
+"You": the person or organization using the Software.
+
+"Output": worksheets, PDFs, diagrams, images, and JSON files that You create using the Software.
+
+"Installer": the unmodified installation package (.deb, .msi or similar) distributed by the Licensor.
+
+"Third-Party Components": software bundled with or used by the Software that is owned by others and
+licensed under its own terms (for example Qt/PySide6, cairosvg, TinyTeX). They are listed in
+THIRD_PARTY_NOTICES.txt.
+
+"Licensor": Loick Marion.
+
+"Individual": a person acting for themselves, not for an Organization. A person who works alone
+through their own sole proprietorship or one-person company is an Individual, as long as no one else
+(employee or contractor) works for it.
+
+"Organization": a company, school, institution or other entity, and any person acting on its behalf,
+other than a one-person business that counts as an Individual.
+
+"Non-profit Organization": see 2.2.
+
+2. Free use
+
+The Licensor grants You a non-exclusive, non-transferable, worldwide, royalty-free license to install
+and run the Software, for the users and uses described in 2.1, 2.2 and 2.3. You may install the
+Software on as many devices as You need, including shared computers. Each person who uses the
+Software must be covered: when acting for themselves, by the license in 2.1; when acting for an
+Organization, by that Organization's license. Any other use needs a separate license (section 3).
+
+2.1 Individuals. As an Individual You may use the Software for personal, educational and teaching
+use, with no income limit. This includes selling or distributing Output (for example worksheets,
+paid downloads or memberships) and, if You are a self-employed tutor, using Output in tutoring.
+
+Making Output at the request of an Organization, for that Organization's purposes, is acting on its
+behalf, whether or not You are paid, and is not use as an Individual. The Organization needs a separate license for it (2.2 if it qualifies, otherwise section 3(b)). The separate license obtained by the Organization shall dictate terms of use. Selling Output to an Organization that You made on Your own is not work done at its request, as long as You are not otherwise employed by the Organization.
+
+A tutor is self-employed if they tutor on their own account, for their own students. This includes a
+tutor who works alone through their own sole proprietorship or one-person company. A tutor who is an
+employee of, or is engaged to tutor for, a company, tutoring agency or other Organization is acting
+for that Organization and is covered by its license, not by 2.1. A business in which other tutors,
+employees or contractors work is an Organization, even if the owner also tutors. A tutor who finds
+their own students through an online marketplace or similar platform, and sets their own sessions, is
+still self-employed.
+
+Whether You act as an Individual depends on whom You act for, not on whose computer You use or when
+You use it. Using the Software for Your employer, or otherwise on behalf of an Organization, is not
+use as an Individual. For example, a teacher who uses it for their school is covered by the school's
+license (2.2 if the school qualifies, otherwise section 3(b)), and the same teacher selling
+worksheets on their own is covered by 2.1.
+
+2.2 Non-profit Organizations. A Non-profit Organization (a public school or other government-run
+educational institution, or a school, university or educational group that is tax-exempt or
+non-profit under the law where it operates) may use the Software for its educational activities,
+provided that it does not sell Output or charge a separate price for Output. It may make and
+distribute as many copies of Output as it likes. Tuition, program fees and similar charges for
+teaching are not a price for Output. On request, it must confirm its status in writing. A Non-profit
+Organization that sells Output needs a license under section 3(b).
+
+This covers the people who act on its behalf, such as its employees, volunteers, board members and
+teachers, and its pupils and students when they use the Software for their education there. It does
+not cover:
+
+  (a) making Output for people outside the organization in exchange for payment or other
+      compensation;
+
+  (b) use by another Organization that does not qualify, even if related to the Non-profit
+      Organization, such as a trading subsidiary; or
+
+  (c) the personal activities of its members, who need a license of their own, such as 2.1.
+
+A contractor who makes Output at the request of the Non-profit Organization, for it, is covered by
+this section, as long as the Non-profit Organization does not sell that Output.
+
+2.3 Evaluation. Anyone whose use is not covered by 2.1 or 2.2, such as a company or a publisher, may use the Software for evaluation only, during one evaluation period of 30 days:
+
+  (a) The period starts on the first day on which the Software is used by You, or on Your behalf, for
+      a use not covered by 2.1 or 2.2. There is one period per Individual and one per Organization,
+      however many people, devices, installations or versions are involved. Reinstalling, moving to
+      another computer, or installing an update does not start a new period. The Licensor may agree
+      in writing to a new period.
+
+  (b) Evaluation means finding out whether the Software meets Your needs: testing its features,
+      making test worksheets and samples, assessing them internally, and preparing work that You
+      intend to continue under a separate license.
+
+  (c) Output made during the evaluation period remains Yours (section 4), and You may keep and use
+      it, including commercially.
+
+  (d) After the evaluation period, any further use requires a separate license.
+
+2.4 Credit (a request, not a condition). If You publish, sell or otherwise make Output available to
+the public, the Licensor asks You to include a visible credit such as "Worksheets made with
+Askema". Not doing so does not affect Your license. Sharing the Installer is different: see
+section 5.
+
+3. When a separate license is needed
+
+You need a separate written license from the Licensor if You are a company, for-profit education
+provider, publisher, or any other Organization not covered by 2.2, after any evaluation period in
+2.3. The same applies when an Individual makes Output at the request of such an Organization (see
+2.1): it is the Organization that needs the license.
+
+Contact the Licensor as set out in section 14. Until a separate license is granted, use by such an
+Organization is not permitted, except as 2.3 allows. If You think this is unfair in Your case, You
+may ask the Licensor for a free or reduced license; the Licensor decides. Fees for licenses under
+this section are agreed in a written license with the Licensor.
+
+4. Output
+
+You own the Output, including after this license ends. The Licensor claims no rights in it and
+places no restrictions on how you use it. Who may use the Software to make Output is covered by sections 2 and 3. Output may contain fonts, symbols or other elements from Third-Party Components, which remain under their own licenses.
+
+5. Sharing the Software
+
+You may copy and share the unmodified Installer, free of charge, provided that You keep this license
+and THIRD_PARTY_NOTICES.txt with it and credit the Licensor ("Askema by Loick Marion"). You may not
+sell it, bundle it in a paid product or service, or share a modified copy.
+
+Each person who receives the unmodified Installer from You receives a license directly from the
+Licensor, on these terms, when they accept them. This is not a sublicense from You.
+
+6. Restrictions
+
+6.1 Except as this license permits, and subject to section 7 and to rights that applicable law does
+not let a license take away, You may not: sell, sublicense or rent the Software; remove copyright or
+license notices; distribute the Software or any modified version of it, other than sharing the
+unmodified Installer as section 5 allows; or reuse the Software's source code or data in another
+product.
+
+6.2 If You use the Software under 2.1, You may modify it on the computers where You use it, for Your
+own use, and reverse engineer it as needed to debug Your modifications. This includes a
+self-employed tutor modifying it for use in their own tutoring. You may not give modified copies, or
+code derived from the Software, to anyone else, including students, clients or customers. Section
+7.5 applies.
+
+6.3 Source code that is visible on GitHub is made available for reading and for reporting issues,
+and, apart from 6.2, is not licensed for reuse under this license.
+
+7. Third-Party Components
+
+7.1 The Software includes Third-Party Components, each governed by its own license as listed in
+THIRD_PARTY_NOTICES.txt. This license does not apply to them, and nothing in this license limits the
+rights their licenses give You.
+
+7.2 Some Third-Party Components, including Qt, PySide6, Shiboken6 and CairoSVG, are licensed under
+the GNU Lesser General Public License (LGPL). They are included as separate, replaceable files. You
+may modify these components, replace them in Your installation with modified versions, and reverse
+engineer the Software as needed to debug such modifications. Where an LGPL license requires it, You
+may also modify the Software for Your own use and reverse engineer it to debug such modifications.
+
+7.3 Section 6 does not limit the rights in this section.
+
+7.4 THIRD_PARTY_NOTICES.txt states where to obtain the source code of the LGPL and GPL components.
+
+7.5 Modifying or reverse engineering the Software under this section or 6.2 does not give You any
+ownership of it. The Licensor keeps all rights in the Software and in anything derived from it,
+other than the Third-Party Components. You may use such modifications only for Your own use, and may
+not distribute the Software or any code derived from it.
+
+
+
+8. No warranty and limitation of liability
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. The Licensor
+does not warrant that worksheets or answers produced are error-free. You are responsible for checking
+Output before using it, including any answer keys. To the extent permitted by law, the Licensor is not
+liable for any claim, damages or other liability arising from the Software or its use.
+
+9. Termination
+
+If You breach this license, the Licensor may notify You of the breach (see 14.4; by any reasonable
+means if the Licensor has no contact details for You). If the breach can be fixed and You fix it
+within 30 days after the notice, the license continues. If You do not, or if the breach cannot be
+fixed, the Licensor may end the license by notice. You must then stop using the Software and delete
+Your copies. Output You already created stays Yours (section 4). Sections 4, 7, 8, 10 and 11
+survive termination.
+
+10. General
+
+If any part of this license is unenforceable, the rest stays in force. This is the entire agreement
+between You and the Licensor about the Software, unless You have a separate written license under
+section 3, which then takes priority. You may not assign this license. The Licensor may assign it,
+with the Software, to a successor or to a company the Licensor controls, and "Licensor" then includes
+that company.
+
+11. Governing law and disputes
+
+11.1 This license is governed by the laws of the Commonwealth of Massachusetts, USA, without regard to
+conflict-of-law rules.
+
+11.2 Before starting a lawsuit, the party with the claim must send the other a written notice
+describing it and wait 30 days to try to resolve it.
+
+11.3 Any lawsuit must be brought in the state or federal courts located in Massachusetts, and each party
+consents to those courts' jurisdiction.
+
+11.4 Nothing in this section limits rights that the law of Your place of residence gives You and that
+cannot be waived by contract, including consumer protection rights.
+
+11.5 Despite 11.2 and 11.3, the Licensor may seek an injunction in any competent court to stop use of
+the Software that breaches section 3 or 6.
+
+
+12. Updates and license versions
+12.1 The Licensor may release updates but is not required to provide updates, support or any
+particular feature.
+
+12.2 Each release of the Software is licensed under the version of this license that came with it. If
+the Licensor publishes new terms, they apply to later releases. You may keep using a release You
+already have under the terms it came with, but You must accept the new terms to use a later release.
+Changing the contact details in section 14 is not a change of terms and applies to every release.
+
+12.3 The version of this license is shown by its version and date at the top of LICENSE.txt in each
+release.
+
+13. Privacy
+The Software does not collect, transmit or share any personal data. Worksheets, project files and
+settings are stored on Your device. The Software does not contact any server. If a future release
+changes this, the change will be stated in that release's license and release notes before You can
+choose to install it.
+
+14. Contact
+14.1 To contact the Licensor about licensing, a dispute or notice under section 11.2, bug reports or
+security issues, use, in this order:
+
+  (1) email: contact@askemamath.com
+
+  (2) the GitHub page: https://github.com/LoickMarion
+
+14.2 The Licensor may change these contact details at any time. The details in the current
+LICENSE.txt on the GitHub page apply to every release of the Software, including older ones, and
+changing them does not change the terms of any release.
+
+14.3 It is Your responsibility to use the current contact details. A notice to the Licensor sent
+only to outdated details is not delivered unless the Licensor actually receives it.
+
+14.4 The Software does not collect Your contact details. The Licensor holds contact details only when
+You provide them (for example by email, or when You buy a license), and uses them only to deal with
+Your request and Your license. The Licensor may give general announcements by posting them on the
+GitHub page and in release notes. A notice that affects Your rights, such as termination under
+section 9, will be sent to You directly if the Licensor has Your contact details.
+
+
